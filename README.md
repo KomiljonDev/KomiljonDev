@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KomiljonDev
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML, CSS, Javascript
+- 📫 How to reach me in telegram - @Komiljon-1994
+- Status: studying right now!
